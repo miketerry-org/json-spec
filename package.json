@@ -1,0 +1,32 @@
+{
+  "name": "json-spec",
+  "version": "0.5.0",
+  "description": "Use specifications to validate JSON data structures",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry-org/json-spec.git"
+  },
+  "keywords": [
+    "JSON",
+    "object",
+    "property",
+    "data",
+    "types",
+    "validate",
+    "validation"
+  ],
+  "author": "miketerry.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketerry-org/json-spec/issues"
+  },
+  "homepage": "https://github.com/miketerry-org/json-spec#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
